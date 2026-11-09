@@ -1,0 +1,8 @@
+# JetBrains IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Junie
+.junie/

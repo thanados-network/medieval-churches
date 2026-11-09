@@ -1,0 +1,514 @@
+Saints ID,Name,Wikidata ID,Type,Date,Place
+209219,Mary,Q345,main veneration day,"(1, 1)",['everywhere']
+209218,Paul,Q9200,main veneration day,"(6, 29)",['everywhere']
+209218,Paul,Q9200,Octava,"(7, 6)",['everywhere']
+209218,Paul,Q9200,Vigilia,"(6, 28)",['everywhere']
+209218,Paul,Q9200,Commemoratio,"(7, 19)",['Minden']
+209218,Paul,Q9200,Translatio,"(4, 16)",['Rom']
+209217,Peter,Q33923,main veneration day,"(6, 29)",['everywhere']
+209217,Peter,Q33923,Octava,"(7, 6)",['everywhere']
+209217,Peter,Q33923,Vigilia,"(6, 28)",['everywhere']
+209217,Peter,Q33923,Commemoratio,"(7, 19)",['Minden']
+209217,Peter,Q33923,Translatio,"(4, 16)",['Rom']
+209217,Peter,Q33923,Cathedra,"(2, 22)",['everywhere']
+209217,Peter,Q33923,Cathedra Rome,"(1, 18)","['Brandenburg', 'Havelberg', 'Magdeburg', 'Münster', 'Ratzeburg', 'Sitten', 'Strassburg', 'Lyon']"
+209930,Simon,Q12871,main veneration day,"(10, 28)",['everywhere']
+209930,Simon,Q12871,Vigilia,"(10, 27)",['everywhere']
+209930,Simon,Q12871,Octava,"(11, 4)","['Goslar', 'Naumburg']"
+209930,Simon,Q12871,Octava,"(10, 31)",['Tarassona']
+375014,Achatius,Q186085,main veneration day,"(6, 22)","['Aquileja','Brixen', 'Eichstedt', 'Passau', 'Regensburg', 'Salzburg', 'Trient', 'Winchester', 'Benedictiner', 'Pauliner']" 
+375014,Achatius,Q186085,secondary veneration day,"(6, 23)",['Krakau'] 
+375014,Achatius,Q186085,secondary veneration day,"(6, 7)",['Cévennes'] 
+209677,Adalbert,Q243427,main veneration day,"(4, 23)","['Bamberg', 'Brandenburg', 'Breslau', 'Chur', 'Ermland', 'Gnesen', 'Halberstadt', 'Kammin', 'Krakau', 'Lebus', 'Lüttich', 'Magdeburg', 'Mainz', 'Meissen', 'Metz', 'Olmütz', 'Prag', 'Ratzeburg', 'Utrecht', 'Würzburg', 'Agram', 'Fünfkirchen', 'Gran']"
+209677,Adalbert,Q243427,secondary veneration day,"(4, 24)","['Augsburg', 'Brixen', 'Eichstedt', 'Freising', 'Halle', 'Magdeburg', 'Passau', 'Regensburg', 'Salzburg']"
+209677,Adalbert,Q243427,secondary veneration day,"(4, 22)",['Olmütz']
+209677,Adalbert,Q243427,secondary veneration day,"(3, 19)",['Havelberg']
+209677,Adalbert,Q243427,Octava,"(4, 30)","['Gnesen', 'Lebus', 'Prag']"
+209677,Adalbert,Q243427,Translatio,"(8, 25)","['Lebus', 'Prag']"
+209677,Adalbert,Q243427,Translatio,"(8, 26)",['Breslau']
+209677,Adalbert,Q243427,secondary veneration day,"(10, 20)","['Gnesen', 'Krakau']"
+209677,Adalbert,Q243427,Translatio,"(11, 6)","['Fünfkirchen', 'Gran']"
+255685,Agatha of Sicily,Q200895,main veneration day,"(2, 5)",['everywhere']
+209678,All Saints,Q587,main veneration day,"(11, 1)",['everywhere']
+209678,All Saints,Q587,Vigilia,"(10, 31)",['everywhere']
+209678,All Saints,Q587,Octava,"(11, 8)",['everywhere']
+209679,Ambrose,Q43689,main veneration day,"(4, 4)","['Goslar', 'Halle', 'Kammin', 'Compostella', 'Tarassona', 'Aberdon', 'London (Westminster)', 'Salisbury', 'Agram', 'Fünfkirchen', 'Gran', 'Benedictiner', 'Carmeliter', 'Carthäuser', 'Cistercienser', 'Cluniacenser', 'Domini ultramontani', 'Dominicaner', 'Prämonstratenser']"
+209679,Ambrose,Q43689,secondary veneration day,"(4, 3)",['Sevilla']
+209679,Ambrose,Q43689,Ordinatio,"(12, 7)","['Aquileja', 'Hamburg', 'Winchester', 'Fünfkirchen', 'Mailand', 'Augustiner-Eremiten', 'Dominicaner']"
+209679,Ambrose,Q43689,Translatio,"(12, 7)","['Regensburg', 'Camaldulenser']"
+209679,Ambrose,Q43689,Translatio/Ordinatio,"(12, 7)","['Benedictiner', 'Casinenser', 'Olivetaner', 'Franciscaner']"
+209679,Ambrose,Q43689,secondary veneration day,"(12, 16)",['Kreuzherren']
+209679,Ambrose,Q43689,Baptismus,"(11, 30)","['Metz', 'Verdun', 'Mailand', 'Exeter']"
+209679,Ambrose,Q43689,Victoria,"(2, 21)",['Mailand']
+209680,Andrew,Q43399,main veneration day,"(11, 30)",['everywhere']
+209680,Andrew,Q43399,Vigilia,"(11, 29)",['everywhere']
+209680,Andrew,Q43399,Octava,"(12, 7)",['everywhere']
+209680,Andrew,Q43399,Translatio,"(5, 9)","['Erfurt', 'Goslar', 'Havelberg', 'Hildesheim', 'Aberdon']"
+209680,Andrew,Q43399,Translatio,"(5, 11)","['Halberstadt', 'Halle', 'Magdeburg']"
+209680,Andrew,Q43399,Translatio,"(4, 22)",['Freising']
+209680,Andrew,Q43399,Translatio,"(8, 25)",['Worms']
+209680,Andrew,Q43399,Translatio/Reliquiarum,"(2, 28)",['Rom']
+209681,Anne,Q164294,main veneration day,"(7, 26)",['everywhere']
+209681,Anne,Q164294,secondary veneration day,"(7, 27)","['Augsburg', 'Erfurt', 'Halberstadt', 'Troyes', 'Sevilla']"
+209681,Anne,Q164294,secondary veneration day,"(7, 28)","['Aarhus', 'Beauvais', 'Paris', 'Tournai']"
+209681,Anne,Q164294,secondary veneration day,"(7, 19)","['Amiens', 'Cambrai']"
+209681,Anne,Q164294,secondary veneration day,"(7, 24)",['Cluniacenser']
+209681,Anne,Q164294,secondary veneration day,"(8, 16)","['Münster', 'Osnabrück']"
+209681,Anne,Q164294,secondary veneration day,"(12, 9)","['Schleswig', 'Aarhus', 'Kjöbenhavn', 'Linköping', 'Lund', 'Odensee', 'Roeskilde', 'Skara', 'Strengnäs', 'Trondhjem', 'Upsala', 'Westeras']"
+209681,Anne,Q164294,secondary veneration day,"(12, 15)",['Åbo']
+209681,Anne,Q164294,secondary veneration day,"(9, 9)",['Strengnäs']
+209681,Anne,Q164294,Commemoratio,"(9, 16)",['Linköping']
+209681,Anne,Q164294,Octava,"(7, 31)",['Apt']
+209681,Anne,Q164294,Octava,"(8, 2)","['Hildesheim', 'Kammin', 'Meissen', 'Naumburg']"
+209681,Anne,Q164294,Octava,"(8, 4)","['Augsburg', 'Tournai']"
+209681,Anne,Q164294,Translatio,"(7, 26)",['Odensee']
+209681,Anne,Q164294,Reliquiarum translatio,"(1, 30)",['Rouen']
+209941,Annunciation,Q154326,main veneration day,"(3, 25)",['everywhere']
+209683,Apollinaris of Ravenna,Q320199,main veneration day,"(7, 23)",['everywhere']
+209684,Assumption of Mary,Q162691,main veneration day,"(8, 15)",['everywhere']
+209684,Assumption of Mary,Q162691,Vigilia,"(8, 14)",['everywhere']
+209684,Assumption of Mary,Q162691,Octava,"(8, 22)",['everywhere']
+277309,Augustine of Hippo,Q8018,main veneration day,"(8, 28)",['everywhere']
+277309,Augustine of Hippo,Q8018,secondary veneration day,"(8, 27)",['Cluniacenser']
+277309,Augustine of Hippo,Q8018,Octava,"(9, 4)",['everywhere']
+277309,Augustine of Hippo,Q8018,Translatio,"(10, 11)","['Augsburg', 'Brandenburg', 'Breslau', 'Brixen', 'Freising', 'Gnesen', 'Halle', 'Havelberg', 'Lebus', 'Münster', 'Ratzeburg', 'Regensburg', 'Salzburg', 'Utrecht', 'Worms', 'Kjöbenhavn', 'Fünfkirchen', 'Augustiner-Eremiten', 'Kreuzherren', 'Pauliner', 'Prämonstratenser']"
+277309,Augustine of Hippo,Q8018,Octava,"(10, 17)",['Prämonstratenser']
+277309,Augustine of Hippo,Q8018,Translatio,"(2, 28)","['Halle', 'Apt', 'Augustiner-Eremiten', 'Kreuzherren']"
+277309,Augustine of Hippo,Q8018,Conversio,"(5, 5)","['Halle', 'Toul', 'Augustiner']"
+277309,Augustine of Hippo,Q8018,Reconditio,"(2, 27)",['Augustiner']
+209687,Barbara,Q192816,main veneration day,"(12, 4)","['Bourges', 'Mans', 'Durham', 'Salisbury', 'York']"
+209687,Barbara,Q192816,secondary veneration day,"(12, 5)",['Senlis']
+209687,Barbara,Q192816,secondary veneration day,"(12, 16)","['Genf', 'Amiens', 'Langres', 'Exeter', 'London (Westminster)', 'Winchester', 'Cistercienser']"
+209687,Barbara,Q192816,Octava,"(12, 11)","['Meissen', 'Naumburg']"
+209687,Barbara,Q192816,Octava,"(12, 10)",['Merseburg']
+209687,Barbara,Q192816,Translatio,"(2, 12)",['Cambrai']
+209687,Barbara,Q192816,Translatio,"(7, 8)",['Utrecht']
+209687,Barbara,Q192816,Translatio,"(9, 2)",['Passau']
+209688,Bartholomew,Q43982,main veneration day,"(8, 24)",['everywhere']
+209688,Bartholomew,Q43982,Vigilia,"(8, 23)",['everywhere']
+209688,Bartholomew,Q43982,Octava,"(8, 31)","['Hildesheim', 'Konstanz', 'Tarassona']"
+209688,Bartholomew,Q43982,Translatio (prima),"(6, 17)","['Frankfurt a. M.', 'Mans']"
+209688,Bartholomew,Q43982,Translatio (secunda),"(10, 25)","['Frankfurt a. M.', 'Exeter (Leofric)']"
+209690,Benedict,Q44265,main veneration day,"(3, 21)",['everywhere']
+209690,Benedict,Q44265,Octava,"(3, 28)",['Camaldulenser']
+209690,Benedict,Q44265,Commemoratio,"(7, 11)",['Benedictiner']
+209690,Benedict,Q44265,Translatio,"(7, 11)",['everywhere']
+209690,Benedict,Q44265,Octava Translationis,"(7, 18)","['Durham', 'London (Westminster)']"
+209690,Benedict,Q44265,Octava Translationis,"(7, 17)",['Cluniacenser']
+209690,Benedict,Q44265,Exceptio reliquiarum,"(10, 2)",['Cluniacenser']
+209690,Benedict,Q44265,Inlatio,"(12, 4)","['Bourges', 'Winchester', 'Benedictiner']"
+209692,Blaise,Q151967,main veneration day,"(2, 3)",['everywhere']
+209692,Blaise,Q151967,Confessio,"(2, 3)","['Olmütz', 'Prag']"
+209692,Blaise,Q151967,Octava,"(2, 10)",['Lübeck']
+209693,Castulus,Q167902,main veneration day,"(3, 26)","['Brixen', 'Freising', 'Passau', 'Prag', 'Regensburg', 'Salzburg', 'Trient', 'Rom']"
+209693,Castulus,Q167902,secondary veneration day,"(3, 27)","['Gnesen', 'Krakau']"
+209694,Catherine,Q179718,main veneration day,"(11, 25)",['everywhere']
+209694,Catherine,Q179718,Octava,"(12, 2)",['everywhere']
+209694,Catherine,Q179718,Translatio,"(7, 5)",['Regensburg']
+209694,Catherine,Q179718,Adventus digiti,"(9, 14)",['Magdeburg']
+209694,Catherine,Q179718,Inventio corporis,"(3, 13)",['France']
+277313,Cecilia,Q80513,main veneration day,"(11, 22)","['Bremen', 'Halle', 'Hamburg', 'Köln', 'Krakau', 'Magdeburg', 'Paderborn', 'Trient', 'Verden', 'Salisbury', 'Agram', 'Fünfkirchen', 'Gran', 'Benedictiner', 'Cistercienser', 'Domini ultramontani', 'Dominicaner']"
+277313,Cecilia,Q80513,Vigilia,"(11, 21)",['Hildesheim']
+277313,Cecilia,Q80513,Octava,"(11, 29)",['Verden']
+277313,Cecilia,Q80513,Translatio/Reliquiarum,"(7, 23)",['Verden']
+209695,Christopher,Q193507,main veneration day,"(7, 25)",['everywhere']
+209695,Christopher,Q193507,secondary veneration day,"(7, 26)","['Augsburg', 'Havelberg', 'Köln', 'Schleswig', 'Lund', 'Odensee', 'Roeskilde', 'Trondhjem', 'Cambrai', 'Sevilla', 'Cluniacenser']"
+209695,Christopher,Q193507,secondary veneration day,"(7, 27)","['Breslau', 'Gnesen', 'Köln', 'Krakau', 'Lebus', 'Magdeburg', 'Meissen', 'Minden', 'Naumburg', 'Regensburg', 'Aarhus', 'Kreuzherren']"
+209695,Christopher,Q193507,secondary veneration day,"(7, 24)",['Hildesheim']
+209695,Christopher,Q193507,secondary veneration day,"(7, 30)",['Aberdon']
+209695,Christopher,Q193507,secondary veneration day,"(7, 20)",['Schwerin']
+209695,Christopher,Q193507,secondary veneration day,"(7, 10)",['Compostella']
+209695,Christopher,Q193507,secondary veneration day,"(10, 19)","['Brandenburg', 'Halle']"
+209696,Clare,Q191107,main veneration day,"(8, 12)","['Benedictiner', 'Franciscaner', 'Pauliner']"
+209696,Clare,Q191107,secondary veneration day,"(8, 4)","['Brandenburg', 'Halle']"
+209696,Clare,Q191107,Translatio,"(10, 2)",['Franciscaner']
+209697,Clement I,Q42887,main veneration day,"(11, 23)","['Breslau', 'Genf', 'Halle', 'Krakau', 'Lausanne', 'Lüttich', 'Magdeburg', 'Münster', 'Schleswig', 'Trier', 'Aarhus', 'Åbo', 'Kjöbenhavn', 'Linköping', 'Lund', 'Roeskilde', 'Skara', 'Strengnäs', 'Upsala', 'Westerås', 'Amiens', 'Autun', 'Reims', 'Rouen', 'Aberdon', 'Salisbury', 'Agram', 'Fünfkirchen', 'Gran', 'Benedictiner', 'Carthäuser', 'Cistercienser', 'Cluniacenser', 'Domini ultramontani', 'Dominicaner']"
+209697,Clement I,Q42887,secondary veneration day,"(11, 26)",['Aquileja']
+209697,Clement I,Q42887,Commemoratio,"(11, 26)",['Aquileja']
+209697,Clement I,Q42887,Translatio,"(1, 23)",['Aarhus']
+209697,Clement I,Q42887,Capitis exceptio,"(7, 27)",['Cluniacenser']
+209699,Corpus Christi,Q152395,main veneration day,(),['everywhere']
+209699,Corpus Christi,Q152395,Vigilia,(),['everywhere']
+209699,Corpus Christi,Q152395,Octava,(),['everywhere']
+209981,Cosmas,Q76486,main veneration day,"(9, 27)",['everywhere']
+209981,Cosmas,Q76486,secondary veneration day,"(9, 26)",['Gnesen']
+209981,Cosmas,Q76486,secondary veneration day,"(9, 27)","['Breslau', 'Köln', 'Krakau']"
+209981,Cosmas,Q76486,secondary veneration day,"(10, 2)",['Halle']
+209981,Cosmas,Q76486,secondary veneration day,"(10, 22)",['Mailand']
+209701,Crown of Virgin Mary,,main veneration day,"(8, 22)",['everywhere']
+209701,Crown of Virgin Mary,,Vigilia,"(8, 21)",['everywhere']
+209701,Crown of Virgin Mary,,Octava,"(8, 29)",['everywhere']
+209702,Cunigunde,Q61620,main veneration day,"(3, 3)","['Bamberg (ob.)', 'Breslau', 'Brixen', 'Eichstedt', 'Freising', 'Halberstadt', 'Hamburg (imp.)', 'Hildesheim (reg.)', 'Köln', 'Konstanz (imp.)', 'Passau', 'Regensburg', 'Salzburg (dep.)', 'Trient', 'Worms', 'Würzburg (imp.)']"
+209702,Cunigunde,Q61620,secondary veneration day,"(3, 15)","['Brandenburg', 'Halle (imp.)']"
+209702,Cunigunde,Q61620,secondary veneration day,"(2, 25)",['Merseburg']
+209702,Cunigunde,Q61620,Translatio,"(9, 9)","['Bamberg (trl.)', 'Basel (imp.)', 'Breslau', 'Brixen (trl.)', 'Freising', 'Mainz', 'Merseburg (trl.)', 'Ölmütz', 'Passau (trl.)', 'Salzburg (trl.)', 'Würzburg (trl.)']"
+209702,Cunigunde,Q61620,Translatio,"(9, 7)",['Regensburg']
+209702,Cunigunde,Q61620,secondary veneration day,"(9, 10)","['Breslau', 'Lebus', 'Naumburg']"
+209702,Cunigunde,Q61620,Octava Translationis,"(9, 16)",['Bamberg']
+209702,Cunigunde,Q61620,Dedicatio,"(10, 24)",['Halberstadt']
+209702,Cunigunde,Q61620,Canonisatio,"(3, 29)",['Bamberg']
+209984,Daniel of Padua,Q1163307,Inventio,"(1, 3)",['Padua']
+209921,Damian,Q76486,main veneration day,"(9, 27)",['everywhere']
+209921,Damian,Q76486,secondary veneration day,"(9, 26)",['Gnesen']
+209921,Damian,Q76486,secondary veneration day,"(9, 27)","['Breslau', 'Köln', 'Krakau']"
+209921,Damian,Q76486,secondary veneration day,"(10, 2)","['Halle', 'Kreuzherren']"
+209921,Damian,Q76486,secondary veneration day,"(10, 22)",['Mailand']
+278481,Denis of Paris,Q128852008,main veneration day,"(10, 9)","['everywhere', 'Benedictiner', 'Carthäuser', 'Cistercienser', 'Cluniacenser', 'Dominicaner', 'Prämonstratenser']"
+278481,Denis of Paris,Q128852008,Vigilia,"(10, 8)",['Paris']
+278481,Denis of Paris,Q128852008,Octava,"(10, 16)","['Autun', 'Paris', 'Senlis', 'Cluniacenser']"
+278481,Denis of Paris,Q128852008,Passio,"(11, 20)",['Sitten']
+278481,Denis of Paris,Q128852008,Inventio corporis,"(4, 22)","['Amiens', 'Paris', 'Winchester']"
+278481,Denis of Paris,Q128852008,Translatio,"(12, 4)",['Salzburg']
+278481,Denis of Paris,Q128852008,secondary veneration day,"(10, 3)",['Apt']
+209703,Desiderius,Q1200658,main veneration day,"(2, 11)",['Clermont']
+278287,Donatus,Q2360539,main veneration day,"(8, 7)","['Erfurt', 'Halle', 'Magdeburg', 'Meissen']"
+278287,Donatus,Q2360539,secondary veneration day,"(10, 8)",['Compostella']
+278287,Donatus,Q2360539,Octava,"(8, 14)",['Meissen']
+209704,Elisabeth,Q159862,main veneration day,"(11, 19)","['Aquileja', 'Augsburg', 'Brandenburg', 'Breslau', 'Erfurt', 'Ermland', 'Gnesen', 'Goslar', 'Halle', 'Havelberg', 'Kammin', 'Krakau', 'Lebus', 'Magdeburg', 'Mainz', 'Naumburg', 'Prag', 'Ratzeburg', 'Regensburg', 'Verden', 'Würzburg']"
+209704,Elisabeth,Q159862,secondary veneration day,"(11, 19)","['Cambrai', 'Langres', 'Lyon', 'Nevers', 'Paris', 'Tournai', 'Mailand', 'Sevilla', 'Toledo', 'Agram', 'Fünfkirchen', 'Gran', 'Augustiner-Eremiten', 'Benedictiner', 'Cistercienser', 'Deutsch-Orden', 'Domini ultramontani', 'Dominicaner', 'Franciscaner', 'Kreuzherren', 'Johanniter', 'Pauliner', 'Prämonstratenser']"
+209704,Elisabeth,Q159862,Octava,"(11, 26)","['Ermland', 'Würzburg', 'Deutsch-Orden', 'Kreuzherren']"
+209704,Elisabeth,Q159862,Translatio (Elevatio),"(5, 2)","['Bremen', 'Brixen', 'Erfurt', 'Freising', 'Mainz', 'Naumburg', 'Cambrai', 'Gran', 'Deutsch-Orden']"
+209704,Elisabeth,Q159862,Translatio,"(5, 1)",['Halberstadt']
+209983,Emilian of Cogolla,Q153204,main veneration day,"(11, 12)","['Compostella', 'Sevilla', 'Tarragona', 'Tarassona', 'Toledo (Mozarab.)']"
+209706,Fabian,Q131159,main veneration day,"(1, 20)",['everywhere']
+209706,Fabian,Q131159,Octava,"(1, 27)",['Meissen']
+209706,Fabian,Q131159,Reliquiarum adventus,"(7, 23)",['Verden']
+209706,Fabian,Q131159,Translatio,"(12, 9)",['Soissons']
+209705,Feast of the Cross,Q815520,main veneration day,"(9, 14)",['everywhere']
+277133,Feast of the Most Holy Name of the Blessed Virgin Mary,Q1537037,main veneration day,"(9, 12)",['everywhere']
+210037,Felician,Q2535100,main veneration day,"(6, 9)",['everywhere']
+210037,Felician,Q2535100,secondary veneration day,"(6, 8)",['Mailand (Ambros.)']
+210037,Felician,Q2535100,Inventio,"(1, 7)",['Rom']
+282017,Florian,Q298845,main veneration day,"(5, 4)","['Aquileja', 'Augsburg', 'Basel', 'Breslau', 'Brixen', 'Chur', 'Freising', 'Gnesen', 'Kammin', 'Krakau', 'Lebus', 'Mainz', 'Münster', 'Ölmütz', 'Passau', 'Regensburg', 'Salzburg', 'Strassburg', 'Worms', 'Compostella', 'Agram', 'Fünfkirchen', 'Gran', 'Benedictiner', 'Domini ultramontani', 'Pauliner']"
+282017,Florian,Q298845,secondary veneration day,"(5, 5)","['Prag', 'Trient']"
+282017,Florian,Q298845,Octava,"(5, 11)","['Krakau', 'Kreuzherren']"
+209986,Fortunatus,Q22579789,main veneration day,"(7, 12)","['Aquileja', 'Bremen', 'Brixen', 'Erfurt', 'Freising', 'Merseburg', 'Osnabrück', 'Paderborn', 'Salzburg', 'Sitten', 'Trient', 'Autun']"
+209986,Fortunatus,Q22579789,Vigilia,"(6, 11)",['Aquileja']
+209986,Fortunatus,Q22579789,Octava,"(7, 19)",['Aquileja']
+209986,Fortunatus,Q22579789,Translatio,"(8, 27)",['Aquileja']
+209708,Francis,Q676555,main veneration day,"(10, 4)",['everywhere']
+209708,Francis,Q676555,secondary veneration day,"(10, 3)","['Paris', 'Senlis']"
+209708,Francis,Q676555,Octava,"(10, 11)",['Franciscaner']
+209708,Francis,Q676555,Translatio,"(5, 25)","['Toledo (Mozarab.)', 'Franziscaner', 'Pauliner']"
+209708,Francis,Q676555,Translatio,"(5, 26)",['Gran']
+209708,Francis,Q676555,Stigmatum impressio,"(9, 17)","['Franciscaner', 'Kreuzherren']"
+209708,Francis,Q676555,Corporis inventio,"(12, 12)",['Franciscaner']
+209709,Gall,Q180936,main veneration day,"(10, 16)",['everywhere']
+209709,Gall,Q180936,main veneration day,"(10, 16)","['Aquileja', 'Augsburg', 'Basel', 'Chur', 'Konstanz', 'Krakau']"
+209709,Gall,Q180936,main veneration day,"(10, 16)","['Aarhus', 'Kjöbenhavn', 'Odensee', 'Roeskilde']"
+209709,Gall,Q180936,main veneration day,"(10, 16)","['Besançon', 'Mailand (Ambros.)', 'Turin', 'Agram', 'Fünfkirchen', 'Gran', 'Augustiner-Eremiten', 'Benedictiner', 'Camaldulenser', 'Deutsch-Orden', 'Domini ultramontani', 'Dominicaner', 'Johanniter', 'Kreuzherren', 'Olivetaner', 'Pauliner', 'Prämonstratenser']"
+209709,Gall,Q180936,Octava,"(10, 23)",['Augsburg']
+209709,Gall,Q180936,Elevatio,"(2, 20)",[]
+281124,Gandolf,Q9265818,main veneration day,"(9, 17)","['Messina', 'Polizzi']"
+209710,George,Q48438,main veneration day,"(4, 23)",['everywhere']
+209710,George,Q48438,secondary veneration day,"(4, 24)","['Aquileja', 'Augsburg', 'Breslau', 'Brixen', 'Eichstedt', 'Ermland (quo ad officium)', 'Freising', 'Gnesen', 'Krakau', 'Lebus', 'Passau', 'Prag', 'Regensburg', 'Salzburg', 'Trient', 'Mailand (Ambros.)', 'Agram', 'Fünfkirchen', 'Gran', 'Benedictiner', 'Domini ultramontani', 'Kreuzherren', 'Pauliner']"
+209710,George,Q48438,secondary veneration day,"(4, 25)",['Chur']
+209710,George,Q48438,Translatio,"(12, 11)",['Georgsritter']
+256988,Gertrude,Q235619,main veneration day,"(3, 17)","['Goslar', 'Minden', 'Cambrai', 'Paris', 'Reims', 'Tournai', 'Agram', 'Fünfkirchen', 'Augustiner-Eremiten', 'Benedictiner', 'Deutsch-Orden', 'Domini ultramontani', 'Johanniter', 'Kreuzherren', 'Prämonstatenser']"
+256988,Gertrude,Q235619,Consecratio,"(12, 2)",['everywhere']
+256988,Gertrude,Q235619,Elevatio,"(2, 10)",['everywhere']
+256988,Gertrude,Q235619,Translatio,"(10, 16)",['Salzburg']
+209711,Giles,Q149727,main veneration day,"(9, 1)",['everywhere']
+209712,Gotthard,Q61914,main veneration day,"(5, 5)","['Basel', 'Brandenburg', 'Bremen', 'Breslau', 'Brixen', 'Erfurt', 'Freising', 'Gnesen', 'Goslar', 'Halberstadt', 'Halle', 'Hamburg', 'Havelberg', 'Hildesheim', 'Kammin', 'Konstanz', 'Krakau', 'Lebus', 'Lübeck', 'Magdeburg', 'Mainz', 'Merseburg', 'Naumburg', 'Ölmütz', 'Paderborn', 'Passau', 'Ratzeburg', 'Regensburg', 'Salzburg', 'Schwerin', 'Kjöbenhavn', 'Roeskilde', 'Gran', 'Domini ultramontani', 'Kreuzherren', 'Pauliner', 'Prämonstatenser']"
+209712,Gotthard,Q61914,secondary veneration day,"(5, 4)","['Erfurt', 'Merseburg', 'Hildesheim']"
+209712,Gotthard,Q61914,Translatio,"(5, 4)","['Bamberg', 'Erfurt', 'Hildesheim', 'Meissen', 'Merseburg', 'Prag', 'Trient', 'Utrecht', 'Verden', 'Worms', 'Würzburg', 'Mailand']"
+209712,Gotthard,Q61914,Adventus,"(12, 9)",['Verden']
+209995,Gregory of Tours,Q67841,main veneration day,"(11, 17)","['Brandenburg', 'Langres', 'Tours', 'Cluniacenser']"
+209987,Hermagoras of Aquileia,Q1391756,main veneration day,"(7, 12)","['Aquileja', 'Bremen (ohne Fort.)', 'Brixen', 'Erfurt (ohne Fort.)', 'Freising', 'Merseburg', 'Osnabrück (ohne Fort.)', 'Paderborn', 'Salzburg', 'Sitten', 'Trient', 'Autun']"
+209987,Hermagoras of Aquileia,Q1391756,Vigilia,"(6, 11)",['Aquileja']
+209987,Hermagoras of Aquileia,Q1391756,Octava,"(7, 19)",['Aquileja']
+209987,Hermagoras of Aquileia,Q1391756,Translatio,"(8, 27)",['Aquileja']
+209713,Hippolytus,Q207113,main veneration day,"(8, 13)",['everywhere']
+209713,Hippolytus,Q207113,secondary veneration day,"(8, 26)",['Tarassona']
+209715,Holy Spirit,Q37302,main veneration day,(),['everywhere']
+209716,Holy Trinity,Q37090,main veneration day,(),['everywhere']
+209717,Immaculate Conception,Q185606,main veneration day,"(12, 8)",['everywhere']
+209717,Immaculate Conception,Q185606,Vigilia,"(12, 7)",['everywhere']
+209717,Immaculate Conception,Q185606,Octava,"(12, 15)",['everywhere']
+209718,James the Great,Q43999,main veneration day,"(7, 25)",['everywhere']
+209718,James the Great,Q43999,Vigilia,"(7, 24)",['everywhere']
+209718,James the Great,Q43999,Octava,"(7, 31)","['Hamburg', 'Hildesheim', 'Sevilla', 'Tarassona']"
+209718,James the Great,Q43999,Octava,"(8, 1)",['Compostella']
+209718,James the Great,Q43999,Translatio,"(12, 30)","['Compostella', 'Sevilla', 'Toledo (Mozarab.)']"
+209718,James the Great,Q43999,Ordinatio,"(12, 29)",['Mailand (Ambros.)']
+209718,James the Great,Q43999,Octava Ordinationis,"(1, 5)",['Mailand (Ambros.)']
+209719,Jerome,Q44248,main veneration day,"(9, 30)",['everywhere']
+209719,Jerome,Q44248,secondary veneration day,"(9, 30)",['everywhere']
+209719,Jerome,Q44248,Octava,"(10, 7)",['Meissen']
+209719,Jerome,Q44248,Translatio,"(5, 9)","['Trient', 'Tarassona']"
+209686,John the Baptist,Q40662,main veneration day,"(6, 24)",['everywhere']
+209686,John the Baptist,Q40662,Vigilia,"(6, 23)",['everywhere']
+209686,John the Baptist,Q40662,Octava,"(7, 1)",['everywhere']
+209686,John the Baptist,Q40662,Conceptio,"(9, 24)","['Basel', 'Brandenburg', 'Bremen', 'Breslau', 'Brixen', 'Erfurt', 'Gnesen', 'Halberstadt', 'Hamburg', 'Kammin', 'Lebus', 'Lübeck', 'Mainz', 'Merseburg', 'Paderborn', 'Sitten', 'Strassburg', 'Trier', 'Utrecht', 'Amiens', 'Reims', 'Tournai', 'Exeter', 'Winchester', 'Gran', 'Johanniter']"
+209686,John the Baptist,Q40662,Capitis inventio,"(2, 25)",['Kammin']
+209686,John the Baptist,Q40662,Faciei receptio,"(12, 17)",['Amiens']
+209686,John the Baptist,Q40662,Reliquiarum presentatio,"(11, 21)",['Pilgram']
+209689,Decapitation of John the Baptist,Q2511873,main veneration day,"(8, 29)",['everywhere']
+209689,Decapitation of John the Baptist,Q2511873,Octava Decollationis,"(9, 5)","['Kammin', 'Lübeck', 'Johanniter']"
+209689,Decapitation of John the Baptist,Q2511873,Capitis Inventio,"(2, 25)",['Kammin']
+209689,Decapitation of John the Baptist,Q2511873,Faciei Receptio,"(12, 17)",['Amiens']
+209689,Decapitation of John the Baptist,Q2511873,Reliquiarum Presentatio,"(11, 21)","['Johanniter', 'Pilgram']"
+209691,Nativity of John the Baptist,Q3870479,main veneration day,"(6, 24)",['everywhere']
+209691,Nativity of John the Baptist,Q3870479,Vigilia,"(6, 23)",['everywhere']
+209691,Nativity of John the Baptist,Q3870479,Octava,"(7, 1)",['everywhere']
+209691,Nativity of John the Baptist,Q3870479,Conceptio,"(9, 24)","['Basel', 'Brandenburg', 'Bremen', 'Breslau', 'Brixen', 'Erfurt', 'Gnesen (Sanct.)', 'Halberstadt', 'Hamburg', 'Kammin (auch Sanct.)', 'Lebus', 'Lübeck', 'Mainz', 'Merseburg', 'Paderborn', 'Sitten', 'Strassburg', 'Trier', 'Utrecht', 'Amiens', 'Reims', 'Tournai', 'Exeter (Leofric)', 'Winchester', 'Gran', 'Johanniter']"
+209691,Nativity of John the Baptist,Q3870479,Capitis inventio,"(2, 25)",['Kammin']
+209691,Nativity of John the Baptist,Q3870479,Faciei receptio,"(12, 17)",['Amiens']
+209691,Nativity of John the Baptist,Q3870479,Reliquiarum presentatio,"(11, 21)",['Pilgram']
+209720,John the Evangelist,Q328804,main veneration day,"(12, 27)",['everywhere']
+209720,John the Evangelist,Q328804,Octava,"(1, 3)",['everywhere']
+209720,John the Evangelist,Q328804,Commemoratio,"(6, 25)","['Breslau', 'Lebus']"
+209720,John the Evangelist,Q328804,Dormitio,"(6, 26)",['Lüttich']
+209720,John the Evangelist,Q328804,secondary veneration day,"(5, 6)",['everywhere']
+209720,John the Evangelist,Q328804,Octava,"(5, 13)","['Meissen', 'Schwerin']"
+278431,John of Nepomuk,Q221522,main veneration day,"(5, 16)",['Prag']
+209928,Jude,Q81018,main veneration day,"(10, 28)",['everywhere']
+209928,Jude,Q81018,Vigilia,"(10, 27)",['everywhere']
+209928,Jude,Q81018,Octava,"(11, 4)","['Goslar', 'Naumburg']"
+209928,Jude,Q81018,Octava,"(10, 31)",['Tarassona']
+209721,Kilian,Q181738,main veneration day,"(7, 8)","['Bamberg', 'Erfurt', 'Halle', 'Mainz', 'Paderborn', 'Würzburg', 'Lund', 'Cambrai', 'Tournai', 'Agram', 'Fünfkirchen', 'Gran', 'Benedictiner', 'Deutsch-Orden', 'Johanniter', 'Kreuzherren', 'Pauliner', 'Prämonstratenser']"
+209721,Kilian,Q181738,secondary veneration day,"(7, 12)",['Schwerin']
+209721,Kilian,Q181738,Octava,"(7, 15)",['Würzburg']
+209721,Kilian,Q181738,Adventus,"(3, 25)",['Paderborn']
+209990,Lambert,Q283447,main veneration day,"(9, 17)",['everywhere']
+209990,Lambert,Q283447,secondary veneration day,"(9, 18)",['Gnesen']
+209990,Lambert,Q283447,secondary veneration day,"(9, 22)",['Kreuzherren']
+209990,Lambert,Q283447,Octava,"(9, 24)",['Lüttich']
+209990,Lambert,Q283447,Translatio (Commemoratio),"(4, 28)",['Lüttich']
+209990,Lambert,Q283447,Triumphus,"(10, 13)",['Lüttich']
+209722,Lawrence,Q17590,main veneration day,"(8, 10)",['everywhere']
+209722,Lawrence,Q17590,Vigilia,"(8, 9)",['everywhere']
+209722,Lawrence,Q17590,Octava,"(8, 17)",['everywhere']
+209722,Lawrence,Q17590,Reliquiarum adventus,"(11, 15)",['Merseburg']
+209723,Leonard,Q558148,main veneration day,"(11, 6)","['Deutschland', 'Schweiz', 'Amiens', 'Apt', 'Beauvais', 'Bourges', 'Limoges', 'Noblat S.', 'Nevers', 'Paris', 'Rouen', 'Senlis', 'Troyes', 'Mailand (Ambros.)', 'Tarassona', 'Aberdon', 'Durham', 'Exeter', 'London (Westminster)', 'Salisbury', 'Winchester', 'Worcester', 'York', 'Agram', 'Gran', 'Augustiner-Eremiten', 'Benedictiner', 'Camaldulenser', 'Deutsch-Orden', 'Domini ultramontani', 'Dominicaner', 'Franciscaner', 'Johanniter', 'Kreuzherren']"
+209723,Leonard,Q558148,secondary veneration day,"(11, 5)","['Brandenburg', 'Halle', 'Magdeburg']"
+209723,Leonard,Q558148,secondary veneration day,"(11, 7)",['Würzburg']
+209723,Leonard,Q558148,secondary veneration day,"(9, 18)",['Havelberg']
+209723,Leonard,Q558148,veneration day,"(11, 6)","['Kjöbenhavn', 'Strengnäs', 'Trondhjem', 'Upsala', 'Westerås']"
+209724,Longinus,Q319947,main veneration day,"(3, 15)","['Aquil.', 'Bremen', 'Chur', 'Gnesen', 'Hambg', 'Kammin', 'Köln', 'Krakau', 'Mainz', 'Olmütz', 'Prag', 'Toul', 'Trier', 'Utrecht', 'Verden', 'Kopenhagen', 'Apt', 'Nevers', 'Paris', 'Mailand (Ambros.)', 'Compostella', 'Tarassona', 'Winchester', 'Agram', 'Augustiner', 'Eremiten', 'Carmeliter', 'Franciscaner', 'Pauliner']"
+209724,Longinus,Q319947,secondary veneration day,"(12, 1)","['Bremen', 'Brixen', 'Agram']"
+209724,Longinus,Q319947,secondary veneration day,"(12, 2)","['Hambg', 'Utrecht']"
+209724,Longinus,Q319947,secondary veneration day,"(12, 2)","['Basel', 'Breslau', 'Lübeck', 'Merseburg', 'Paderborn', 'Fünfkirchen', 'Gran']"
+209725,Louis,Q346,main veneration day,"(8, 25)","['Hamburg', 'Köln', 'Konstanz', 'Toul', 'Trient', 'Utrecht', 'Verdun', 'Åbo', 'Linköping', 'Skara', 'Strengnäs', 'Westerås', 'Paris', 'Reims', 'Amiens', 'Apt', 'Bourges', 'Mans', 'Nevers', 'Noyon', 'Rouen', 'Senlis', 'Tournai', 'Troyes', 'Agram', 'Augustiner-Eremiten', 'Benedictiner', 'Carmeliter', 'Casinenser', 'Cistercienser', 'Franciscaner', 'Pauliner', 'Prämonstratenser']"
+209725,Louis,Q346,secondary veneration day,"(8, 26)","['Sevilla', 'Benedictiner', 'Cluniacenser', 'Dominicaner']"
+209726,Luke,Q128538,main veneration day,"(10, 18)",['everywhere']
+209726,Luke,Q128538,secondary veneration day,"(10, 17)",['Reims']
+209726,Luke,Q128538,Octava,"(10, 25)",['Tarassona']
+209728,Margaret the Virgin,Q297742,main veneration day,"(7, 13)","['Augsburg', 'Bamberg', 'Brandenburg', 'Bremen', 'Breslau', 'Eichstädt', 'Erfurt', 'Ermland', 'Gnesen', 'Goslar', 'Halberstadt', 'Halle', 'Hamburg', 'Havelberg', 'Hildesheim', 'Kammin', 'Köln', 'Krakau', 'Lebus', 'Lübeck', 'Lüttich', 'Magdeburg', 'Mainz', 'Meissen', 'Merseburg', 'Metz', 'Minden', 'Münster', 'Naumburg', 'Olmütz', 'Osnabrück', 'Paderborn', 'Prag', 'Ratzeburg', 'Schleswig', 'Schwerin', 'Speyer', 'Toul', 'Trient', 'Trier', 'Utrecht', 'Verden', 'Verdun', 'Worms', 'Würzburg', 'Åbo', 'Compostella', 'Sevilla', 'Tarassona', 'Toledo', 'Agram', 'Fünfkirchen', 'Gran']"
+209728,Margaret the Virgin,Q297742,secondary veneration day,"(7, 5)",['Mailand (Ambros.)']
+209728,Margaret the Virgin,Q297742,secondary veneration day,"(7, 12)","['Brixen', 'Freising', 'Hildesheim', 'Passau', 'Regensburg', 'Salzburg', 'Cambrai']"
+209728,Margaret the Virgin,Q297742,secondary veneration day,"(7, 14)","['Bamberg', 'Merseburg']"
+209728,Margaret the Virgin,Q297742,secondary veneration day,"(7, 15)","['Basel', 'Chur', 'Konstanz', 'Lausanne', 'Strassburg']"
+209728,Margaret the Virgin,Q297742,secondary veneration day,"(7, 19)","['Lausanne', 'Sitten', 'Lyon', 'Tarassona']"
+209728,Margaret the Virgin,Q297742,secondary veneration day,"(7, 20)","['Aquileja', 'Genf', 'Aarhus', 'Kjöbenhavn', 'Linköping', 'Lund', 'Odensee', 'Roeskilde', 'Skara', 'Strengnäs', 'Trondjhem', 'Upsala', 'Westerås', 'Amiens', 'Apt', 'Autun', 'Beauvais', 'Besançon', 'Bourges', 'Mans', 'Nevers', 'Noyon', 'Paris', 'Reims', 'Rouen', 'Senlis', 'Soissons', 'Tournai', 'Troyes', 'Toledo', 'Aberdon', 'Durham', 'Exeter', 'London', 'Salisbury', 'Winchester', 'Worcester', 'York']"
+209728,Margaret the Virgin,Q297742,Translatio,"(10, 14)",['Strassburg']
+209728,Margaret the Virgin,Q297742,main veneration day,"(11, 16)",['Aberdon']
+209728,Margaret the Virgin,Q297742,Translatio,"(6, 19)",['Aberdon']
+209729,Mark,Q31966,main veneration day,"(4, 25)",['everywhere']
+209729,Mark,Q31966,Translatio,"(1, 31)","['Aquileja', 'Venedig', 'Franciscaner']"
+209729,Mark,Q31966,Translatio,"(4, 4)","['Richenoviam', 'Konstanz']"
+209729,Mark,Q31966,Inventio corporis,"(6, 25)",['Venedig']
+209729,Mark,Q31966,Apparitio,"(6, 25)",['Venedig']
+209730,Martin,Q133704,main veneration day,"(11, 11)",['everywhere']
+209730,Martin,Q133704,Vigilia,"(11, 10)","['Aquileja', 'Mailand (Ambros.)']"
+209730,Martin,Q133704,Octava,"(11, 18)",['everywhere']
+209730,Martin,Q133704,Translatio,"(7, 4)",['everywhere']
+209730,Martin,Q133704,Octava,"(7, 11)","['Mainz', 'Utrecht', 'Rouen', 'Soissons', 'Prämonstratenser']"
+209730,Martin,Q133704,Ordinatio,"(7, 4)","['In England', 'Besançon', 'Reims', 'Verden', 'Prämonstratenser']"
+209730,Martin,Q133704,Translatio,"(7, 5)","['Halle', 'Paris']"
+209730,Martin,Q133704,Translatio,"(7, 11)",['Prämonstratenser']
+209730,Martin,Q133704,Translatio,"(7, 12)",['Verden']
+209730,Martin,Q133704,Translatio,"(7, 15)",['Compostella']
+209730,Martin,Q133704,Capitis translatio,"(12, 1)",['Utrecht']
+209730,Martin,Q133704,Reliquiarum adventus,"(12, 13)",['Tours']
+209219,Mary,Q345,main veneration day,"(1, 1)",['everywhere']
+209219,Mary,Q345,Octava,"(1, 8)",['everywhere']
+209731,Mary Magdalene,Q63070,main veneration day,"(7, 22)",['everywhere']
+209731,Mary Magdalene,Q63070,Octava,"(7, 29)",['everywhere']
+209731,Mary Magdalene,Q63070,Conversio,"(4, 1)","['Hamburg', 'Konstanz', 'Passau', 'Salzburg']"
+209731,Mary Magdalene,Q63070,secondary veneration day,"(3, 10)","['Augsburg', 'Brandenburg', 'Halle', 'Havelberg']"
+209731,Mary Magdalene,Q63070,secondary veneration day,"(3, 1)","['Goslar', 'Hildesheim']"
+209731,Mary Magdalene,Q63070,Translatio,"(3, 19)","['Basel', 'Trient', 'Utrecht']"
+209731,Mary Magdalene,Q63070,Translatio,"(12, 9)",['Trient']
+209731,Mary Magdalene,Q63070,Translatio,"(3, 19)","['Aberdon', 'Trient']"
+209731,Mary Magdalene,Q63070,Translatio,"(5, 5)",['Apt']
+209731,Mary Magdalene,Q63070,Translatio,"(11, 6)","['Halberstadt', 'Halle']"
+209731,Mary Magdalene,Q63070,Translatio corporis,"(12, 9)",['Trient']
+209732,Mary of the Snows,Q7590551,main veneration day,"(8, 5)",['everywhere']
+209733,Matthew,Q43600,main veneration day,"(9, 21)",['everywhere']
+209733,Matthew,Q43600,Vigilia,"(9, 20)",['everywhere']
+209733,Matthew,Q43600,Translatio,"(5, 6)",['Salerno']
+214053,Matthias,Q44020,main veneration day,"(2, 24)",['everywhere']
+214053,Matthias,Q44020,secondary veneration day,"(2, 7)",['Mailand (Ambros.)']
+214053,Matthias,Q44020,secondary veneration day,"(2, 25)",['everywhere']
+214053,Matthias,Q44020,Vigilia,"(2, 23)",['everywhere']
+214053,Matthias,Q44020,Octava,"(3, 2)",['Tarassona']
+214053,Matthias,Q44020,Octava,"(3, 3)","['Hildesheim', 'Kreuzherren']"
+214053,Matthias,Q44020,Translatio,"(5, 18)",['Goslar']
+214053,Matthias,Q44020,Translatio,"(8, 11)",['Trier']
+214053,Matthias,Q44020,Translatio,"(9, 5)",['Halberstadt']
+214053,Matthias,Q44020,Inventio,"(9, 1)",['Trier']
+214053,Matthias,Q44020,Translatio,"(11, 16)",['Goslar']
+209734,Maurice,Q316599,main veneration day,"(9, 22)",['everywhere']
+209734,Maurice,Q316599,Reliquiarum adventus,"(2, 25)","['Halle', 'Magdeburg']"
+209734,Maurice,Q316599,Capitis adventus,"(9, 28)","['Halle', 'Magdeburg']"
+209734,Maurice,Q316599,Revelatio,"(10, 26)",['Genf']
+209734,Maurice,Q316599,Thebeorum adventus,"(7, 14)",['Magdeburg']
+209734,Maurice,Q316599,Thebeorum Commemoratio (elevatio),"(11, 24)",['Köln']
+210055,Maximilian of Lorch,Q515953,main veneration day,"(10, 12)","['Breslau', 'Passau', 'Brixen', 'Freising', 'Lebus', 'Regensburg', 'Salzburg']"
+209735,Michael,Q45581,main veneration day,"(9, 29)",['everywhere']
+209735,Michael,Q45581,Octava,"(10, 6)",['everywhere']
+209735,Michael,Q45581,Apparitio,"(5, 8)","['Aquil.', 'Basel', 'Brandenburg', 'Bremen', 'Breslau', 'Brixen', 'Freising', 'Gnesen', 'Halberstadt', 'Halle', 'Hamburg', 'Konstanz', 'Mainz', 'Toul', 'Trient', 'Worms', 'Cambrai', 'Paris', 'Compostella', 'Sevilla', 'Tarassona', 'Toledo (Mozarab.)', 'Agram', 'Fünfkirchen', 'Gran', 'Augustiner-Eremiten', 'Benedictiner', 'Casinenser', 'Olivetaner', 'Carmeliter', 'Domini ultramontani', 'Dominicaner', 'Franciscaner', 'Kreuzherren', 'Pauliner', 'Prämonstratenser']"
+209735,Michael,Q45581,Dedicatio,"(10, 16)","['Avranches', 'Mans', 'Rouen', 'Toledo (Mozarab.)', 'Aberdon', 'Exeter', 'Salisbury']"
+209735,Michael,Q45581,main veneration day,"(1, 23)",['Camaldulenser']
+209735,Michael,Q45581,secondary veneration day,"(1, 21)",['Camaldulenser']
+209736,Name of the Virgin Mary,,main veneration day,"(9, 12)",['everywhere']
+214054,Nativity of Mary,Q501107,main veneration day,"(9, 8)",['everywhere']
+214054,Nativity of Mary,Q501107,Vigilia,"(9, 7)",['everywhere']
+214054,Nativity of Mary,Q501107,Octava,"(9, 15)",['everywhere']
+209737,Nicholas,Q44269,main veneration day,"(12, 6)",['everywhere']
+209737,Nicholas,Q44269,Octava,"(12, 13)",['everywhere']
+209737,Nicholas,Q44269,Translatio,"(5, 9)","['Augsburg', 'Basel', 'Erfurt', 'Genf', 'Gnesen', 'Konstanz', 'Lausanne', 'Mainz', 'Metz', 'Sitten', 'Toul', 'Trier', 'Verdun', 'Worms', 'Amiens', 'Autun', 'Beauvais', 'Besançon', 'Bourges', 'Cambrai', 'Lyon', 'Nevers', 'Noyon', 'Paris', 'Reims', 'Rouen', 'Senlis', 'Tournai', 'Troyes', 'Sevilla', 'Toledo (Mozarab.)', 'Aberdon', 'Durham', 'Salisbury', 'Gran', 'Prämonstratenser']"
+209737,Nicholas,Q44269,Translatio,"(5, 10)",['Halberstadt']
+209737,Nicholas,Q44269,Translatio,"(7, 9)","['Brixen', 'Freising', 'Passau', 'Regensburg', 'Salzburg']"
+209737,Nicholas,Q44269,Reliquiarum adventus,"(10, 20)",['Halberstadt']
+209737,Nicholas,Q44269,Signorum initium,"(5, 26)",['Worms']
+209737,Nicholas,Q44269,Ordinatio,"(7, 18)",['Amiens']
+210058,Nonnosus,Q181440,main veneration day,"(9, 2)",['Freising']
+210058,Nonnosus,Q181440,secondary veneration day,"(8, 19)",['Bamberg']
+256137,Odile of Alsace,Q269867,main veneration day,"(12, 13)","['Augsburg', 'Bamberg', 'Basel', 'Brixen', 'Chur', 'Freising', 'Hamburg', 'Konstanz', 'Krakau', 'Lübeck', 'Mainz', 'Metz', 'Passau', 'Regensburg', 'Salzburg', 'Speyer', 'Strassburg', 'Trient', 'Trier', 'Worms', 'Würzburg', 'Pauliner']"
+256137,Odile of Alsace,Q269867,secondary veneration day,"(1, 29)",['Meissen']
+256137,Odile of Alsace,Q269867,secondary veneration day,"(2, 16)",['Brandenburg']
+256137,Odile of Alsace,Q269867,secondary veneration day,"(2, 17)","['Brandenburg', 'Halle']"
+256137,Odile of Alsace,Q269867,secondary veneration day,"(3, 14)",['Havelberg']
+256137,Odile of Alsace,Q269867,secondary veneration day,"(7, 17)",['Lüttich']
+233049,Oswald of Northumbria,Q336016,main veneration day,"(8, 5)","['everywhere', 'Aberdon', 'Agram', 'Durham', 'Exeter', 'Gran', 'Havelberg ', 'London (Westminster)', 'Meissen', 'Salisbury', 'Schwerin', 'Winchester', 'Worcester', 'Worms', 'York', 'Benedictiner', 'Domini ultramontani', 'Johanniter', 'Pauliner', 'Prämonstratenser']"
+233049,Oswald of Northumbria,Q336016,secondary veneration day,"(8, 4)","['Tournai', 'Fünfkirchen', 'Odensee']"
+233049,Oswald of Northumbria,Q336016,secondary veneration day,"(8, 31)",['Meissen']
+209916,Othmar,Q115719,main veneration day,"(11, 16)","['Aquil.', 'Augsburg', 'Bamberg', 'Basel', 'Brandenburg', 'Bremen', 'Breslau', 'Brixen', 'Chur', 'Eichstädt', 'Erfurt', 'Freising', 'Gnesen', 'Hamburg', 'Havelberg', 'Kammin', 'Köln', 'Konstanz', 'Krakau', 'Lausanne', 'Lebus', 'Lüttich', 'Mainz', 'Meissen', 'Merseburg', 'Metz', 'Minden', 'Naumburg', 'Ölmütz', 'Osnabrück', 'Passau', 'Prag', 'Regensburg', 'Salzburg', 'Sitten', 'Speyer', 'Strassburg', 'Trient', 'Trier', 'Utrecht', 'Verdun', 'Worms', 'Würzburg', 'Agram', 'Fünfkirchen', 'Gran', 'Benedictiner', 'Domini ultramontani', 'Kreuzherren', 'Pauliner', 'Prämonstratenser']"
+209916,Othmar,Q115719,Translatio,"(10, 25)","['Konstanz', 'S. Gallen']"
+277426,Our Lady of Consolation,Q2457205,main veneration day,"(8, 28)",['everywhere']
+277426,Our Lady of Consolation,Q2457205,Vigilia,"(8, 27)",['everywhere']
+277426,Our Lady of Consolation,Q2457205,Octava,"(9, 4)",['everywhere']
+277122,Our Lady of Sorrows,Q1196075,main veneration day,"(9, 15)",['everywhere']
+232865,Our Lady of the Rosary,Q65679591,main veneration day,"(10, 7)",['everywhere']
+209917,Pancras of Rome,Q336731,main veneration day,"(5, 12)",['everywhere']
+209917,Pancras of Rome,Q336731,secondary veneration day,"(5, 12)",['Utrecht']
+209917,Pancras of Rome,Q336731,secondary veneration day,"(5, 18)",['Compostella']
+209918,Pantaleon,Q378656,main veneration day,"(7, 28)","['everywhere', 'Beauvais', 'Besançon', 'Bourges', 'Cambrai', 'Lyon', 'Paris', 'Senlis', 'Tournai', 'Sevilla', 'Tarassona', 'Toledo (Mozarab.)', 'Aberdon', 'Durham', 'Exeter', 'Salisbury', 'Winchester', 'York', 'Agram', 'Fünfkirchen', 'Gran', 'Benedictiner', 'Carmeliter', 'Carthäuser', 'Cistercienser', 'Cluniacenser', 'Deutsch-Orden', 'Dominicaner', 'Pauliner', 'Prämonstratenser']"
+209918,Pantaleon,Q378656,secondary veneration day,"(7, 26)",['Camaldulenser']
+209918,Pantaleon,Q378656,secondary veneration day,"(7, 27)","['Augustiner-Eremiten', 'Benedictiner', 'Casinenser', 'Olivetaner', 'Carmeliter', 'Franciscaner']"
+209918,Pantaleon,Q378656,secondary veneration day,"(6, 10)","['Mailand (Ambros.)', 'Dominicaner']"
+210036,Primus,Q2535100,main veneration day,"(6, 9)",['everywhere']
+210036,Primus,Q2535100,secondary veneration day,"(6, 8)",['Mailand (Ambros.)']
+210036,Primus,Q2535100,Inventio,"(1, 7)",['Rom']
+209989,Conversion of Paul the Apostle,Q901397,main veneration day,"(1, 25)",['everywhere']
+209989,Conversion of Paul the Apostle,Q901397,secondary veneration day,"(6, 30)",['everywhere']
+209989,Conversion of Paul the Apostle,Q901397,Commemoratio,"(7, 1)",['Regensburg']
+209989,Conversion of Paul the Apostle,Q901397,Commemoratio,"(10, 24)",['Meissen']
+209920,Peter in Chains,Q1221069,main veneration day,"(8, 1)",['everywhere']
+209920,Peter in Chains,Q1221069,secondary veneration day,"(8, 2)",['Compostella']
+209920,Peter in Chains,Q1221069,Vigilia,"(7, 31)",['Meissen']
+209920,Peter in Chains,Q1221069,Octava,"(8, 8)","['Genf', 'London (Westminster)', 'York']"
+277314,Petronilla,Q463600,main veneration day,"(5, 31)",['everywhere']
+209923,Philip the Apostle,Q43675,main veneration day,"(5, 1)",['everywhere']
+209924,Philip the Evangelist,Q508571,main veneration day,"(6, 6)",['Deutsch-Orden']
+209926,Procopius of Sázava,Q670456,main veneration day,"(7, 4)","['Gnesen', 'Krakau', 'Olmütz', 'Prag']"
+209926,Procopius of Sázava,Q670456,secondary veneration day,"(7, 9)",['Gran']
+209926,Procopius of Sázava,Q670456,secondary veneration day,"(7, 11)",['Dominicaner']
+209926,Procopius of Sázava,Q670456,Octava,"(7, 11)",['Prag']
+209926,Procopius of Sázava,Q670456,Translatio,"(7, 4)",['Prag']
+209926,Procopius of Sázava,Q670456,Passio,"(4, 1)",['Prag']
+209926,Procopius of Sázava,Q670456,Passio,"(3, 25)",['Prag']
+209926,Procopius of Sázava,Q670456,Canonisatio,"(7, 4)",['Prag']
+278436,Radegund,Q236974,main veneration day,"(8, 13)","['Freising', 'Autun', 'Paris', 'Poitiers']"
+278436,Radegund,Q236974,secondary veneration day,"(8, 14)",['Bourges']
+278436,Radegund,Q236974,secondary veneration day,"(8, 12)","['Utrecht', 'Cluniacenser']"
+278436,Radegund,Q236974,secondary veneration day,"(8, 11)","['Brixen', 'Freising', 'Salzburg', 'Mailand (Ambros.)']"
+278436,Radegund,Q236974,secondary veneration day,"(8, 7)",['Benedictiner']
+278436,Radegund,Q236974,Dedicatio,"(1, 30)",['Poitiers']
+210075,Rupert of Salzburg,Q44947,main veneration day,"(3, 27)","['Brixen', 'Freising', 'Konstanz', 'Passau', 'Regensburg', 'Salzburg', 'Trient']"
+210075,Rupert of Salzburg,Q44947,Translatio,"(9, 24)","['Breslau', 'Brixen', 'Eichstädt', 'Freising', 'Lebus', 'Passau', 'Regensburg', 'Salzburg', 'Speyer', 'Worms', 'Würzburg']"
+210075,Rupert of Salzburg,Q44947,Octava Translationis,"(10, 1)",['Salzburg']
+210075,Rupert of Salzburg,Q44947,Renovatio,"(8, 31)",['Salzburg']
+209707,Sebastian,Q183332,main veneration day,"(1, 20)",['everywhere']
+209707,Sebastian,Q183332,Octava,"(1, 27)",['Meissen']
+209707,Sebastian,Q183332,Reliquiarum adventus,"(7, 23)",['Verden']
+209707,Sebastian,Q183332,Translatio,"(12, 9)",['Soissons']
+209927,Sigismund,Q318347,main veneration day,"(5, 1)","['Basel', 'Brixen', 'Chur', 'Freising', 'Genf', 'Konstanz', 'Lausanne', 'Olmütz', 'Sitten', 'Toul', 'Trient']"
+209927,Sigismund,Q318347,secondary veneration day,"(5, 2)","['Aquileja', 'Brandenburg', 'Breslau', 'Gnesen', 'Halle', 'Krakau', 'Lebus', 'Meissen', 'Olmütz', 'Prag', 'Salzburg', 'Trient']"
+209927,Sigismund,Q318347,secondary veneration day,"(4, 30)",['Beauvais']
+209927,Sigismund,Q318347,Depositio,"(9, 27)",['Prag']
+209927,Sigismund,Q318347,Translatio,"(9, 5)",['Freising']
+209927,Sigismund,Q318347,Translatio,"(10, 16)","['Halle', 'Hamburg', 'Magdeburg']"
+209930,Simon,Q12871,main veneration day,"(10, 28)",['everywhere']
+209930,Simon,Q12871,Vigilia,"(10, 27)",['everywhere']
+209930,Simon,Q12871,Octava,"(11, 4)","['Goslar', 'Naumburg']"
+209930,Simon,Q12871,Anticipatio,"(10, 31)",['Tarassona']
+209932,Stephen,Q161775,main veneration day,"(12, 26)",['everywhere']
+209932,Stephen,Q161775,Octava,"(1, 2)",['everywhere']
+209932,Stephen,Q161775,Inventio Reliquiarum,"(8, 3)",['everywhere']
+209932,Stephen,Q161775,Octava Inventionis,"(8, 9)",['Bourges']
+209932,Stephen,Q161775,Translatio,"(5, 7)","['Metz', 'Passau', 'Trient', 'Rom']"
+209932,Stephen,Q161775,Translatio,"(11, 18)",['Bourges']
+209932,Stephen,Q161775,Commemoratio,"(7, 13)",['Besançon']
+209932,Stephen,Q161775,Commemoratio,"(7, 20)",['Besançon']
+209932,Stephen,Q161775,Commemoratio,"(8, 23)",['Besançon']
+209932,Stephen,Q161775,Translatio/Reliquiarum Adventus,"(5, 9)",['Halberstadt']
+209932,Stephen,Q161775,Passio,"(8, 2)",['everywhere']
+209932,Stephen,Q161775,secondary veneration day,"(8, 31)",['Compostella']
+209933,Thomas,Q43669,main veneration day,"(12, 21)",['everywhere']
+209933,Thomas,Q43669,Vigilia,"(12, 20)",['everywhere']
+209933,Thomas,Q43669,Translatio,"(7, 3)","['Augsburg', 'Breslau', 'Brixen', 'Erfurt', 'Freising', 'Lüttich', 'Merseburg', 'Paderborn', 'Prag', 'Strassburg', 'Trier', 'Utrecht', 'Kjöbenhavn', 'Amiens', 'Cambrai', 'Reims', 'Soissons', 'Tournai', 'Troyes', 'Mailand (Ambros.)', 'Pauliner']"
+209933,Thomas,Q43669,Translatio,"(7, 4)",['Halberstadt']
+209933,Thomas,Q43669,Translatio,"(7, 10)",['Goslar']
+209933,Thomas,Q43669,Translatio,"(7, 12)",['Breslau']
+209933,Thomas,Q43669,Translatio,"(7, 14)",['Minden']
+210059,Tiburtius,Q2330524,main veneration day,"(8, 11)",['everywhere']
+210059,Tiburtius,Q2330524,secondary veneration day,"(8, 12)",['Paris']
+210059,Tiburtius,Q2330524,secondary veneration day,"(10, 11)",['Compostella']
+210059,Tiburtius,Q2330524,Translatio,"(7, 14)",['Soissons']
+209934,Transfiguration of Jesus,Q201201,main veneration day,"(8, 6)",['everywhere']
+209934,Transfiguration of Jesus,Q201201,Vigilia,"(8, 5)",['everywhere']
+209934,Transfiguration of Jesus,Q201201,Octava,"(8, 13)",['everywhere']
+209714,True Cross,Q380356,main veneration day,"(9, 14)",['everywhere']
+209935,Ulrich of Augsburg,Q714866,main veneration day,"(7, 4)","['Augsburg', 'Chur', 'Freising', 'Halle', 'Konstanz', 'Mainz', 'Osnabrück', 'Paderborn', 'Passau', 'Regensburg', 'Salzburg', 'Speyer', 'Strassburg']"
+209935,Ulrich of Augsburg,Q714866,secondary veneration day,"(7, 10)",['Cluniacenser']
+209935,Ulrich of Augsburg,Q714866,Octava,"(7, 11)",['Augsburg']
+209935,Ulrich of Augsburg,Q714866,Translatio,"(4, 4)",['Prämonstratenser']
+209935,Ulrich of Augsburg,Q714866,Translatio,"(8, 10)",['Augsburg']
+209936,Ursula,Q369691,main veneration day,"(10, 21)",['everywhere']
+209936,Ursula,Q369691,secondary veneration day,"(10, 20)",['Mailand (Ambros.)']
+209936,Ursula,Q369691,secondary veneration day,"(10, 22)",['Sevilla']
+209936,Ursula,Q369691,Translatio,"(2, 11)",['Erfurt']
+209936,Ursula,Q369691,Translatio,"(3, 3)",['Konstanz']
+209936,Ursula,Q369691,Translatio duorum capitum,"(7, 14)",['Roeskilde']
+209937,Valentine,Q192151,main veneration day,"(2, 14)",['everywhere']
+209937,Valentine,Q192151,secondary veneration day,"(2, 14)","['Goslar', 'Magdeburg', 'Toul', 'Agram', 'Fünfkirchen', 'Gran']"
+209937,Valentine,Q192151,secondary veneration day,"(2, 14)","['Aquileja', 'Bamberg', 'Bremen', 'Chur', 'Freising', 'Halle', 'Hamburg', 'Kammin', 'Metz', 'Ratzeburg', 'Regensburg', 'Speyer', 'Strassburg', 'Trient', 'Worms', 'Amiens', 'Cambrai', 'Lyon', 'Reims']"
+209937,Valentine,Q192151,secondary veneration day,"(2, 13)","['Magdeburg', 'Havelberg']"
+209937,Valentine,Q192151,secondary veneration day,"(2, 15)","['Brandenburg', 'Halle']"
+209937,Valentine,Q192151,secondary veneration day,"(1, 7)",['Terni']
+209979,Virgin Mary,Q345,main veneration day,"(1, 1)",['everywhere']
+209979,Virgin Mary,Q345,Vigilia,"(12, 31)",['everywhere']
+209979,Virgin Mary,Q345,Octava,"(1, 8)",['everywhere']
+209942,Visitation,Q691810,main veneration day,"(5, 31)",['everywhere']
+209943,Vitus,Q212850,main veneration day,"(6, 15)",['everywhere']
+209943,Vitus,Q212850,Translatio,"(3, 10)","['Bremen', 'Halberstadt', 'Mainz (Frankfurt)', 'Merseburg']"
+209943,Vitus,Q212850,Translatio,"(3, 8)",['Krakau']
+209943,Vitus,Q212850,Translatio,"(4, 26)",['Polignano']
+209943,Vitus,Q212850,Translatio,"(6, 13)",['Paderborn']
+209944,Wenceslaus,Q196527,main veneration day,"(9, 28)","['Germany', 'Switzerland', 'Hungary', 'Breslau', 'Krakau', 'Olmütz', 'Prag', 'Åbo', 'Linköping']"
+209944,Wenceslaus,Q196527,Octava,"(10, 5)","['Krakau', 'Meissen', 'Olmütz', 'Prag']"
+209944,Wenceslaus,Q196527,Translatio,"(3, 4)","['Breslau', 'Gnesen', 'Krakau', 'Olmütz', 'Prag']"
+209944,Wenceslaus,Q196527,Translatio,"(3, 5)",['Breslau']
+209944,Wenceslaus,Q196527,Ossium recollectio,"(6, 27)",['Prag']
+209945,Wolfgang,Q60889,main veneration day,"(10, 31)","['Augsburg', 'Bamberg', 'Brixen', 'Chur', 'Freising', 'Hamburg', 'Konstanz', 'Krakau', 'Lausanne', 'Magdeburg', 'Olmütz', 'Passau', 'Regensburg', 'Salzburg', 'Trient', 'Domini ultramontani', 'Kreuzherren']"
+209945,Wolfgang,Q60889,secondary veneration day,"(10, 30)","['Gnesen', 'Konstanz', 'Naumburg']"
+209945,Wolfgang,Q60889,secondary veneration day,"(10, 29)",['Meissen']
+209945,Wolfgang,Q60889,secondary veneration day,"(6, 20)","['Brandenburg', 'Halle', 'Havelberg', 'Magdeburg']"
+209945,Wolfgang,Q60889,Translatio,"(10, 7)","['Passau', 'Regensburg', 'Salzburg']"
+256635,Zeno,Q189776,main veneration day,"(4, 12)","['Merseburg', 'Trient', 'Utrecht']"
+256635,Zeno,Q189776,Depositio,"(4, 12)",['Verona']
+256635,Zeno,Q189776,Ordinatio,"(12, 8)","['Brixen', 'Freising', 'Salzburg', 'Trient', 'Verona', 'Mailand']"
+256635,Zeno,Q189776,Translatio,"(5, 21)",['Verona']

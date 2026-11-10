@@ -19,9 +19,15 @@
 *[Vargha, Mária](https://orcid.org/0000-0002-6806-7434) [![orcID](/assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0002-6806-7434);*
 
 ## Funding
-<!--->
-This project was funded by...
-<!--->
+This research was funded in whole or in part by the Austrian Science
+Fund (FWF) [10.55776/I6428](https://doi.org/10.55776/I6428). 
+
+The research has also been funded in part by the
+European Union (ERC-StG, RELIC, 101115501). Views and opinions expressed
+are, however, those of the author(s) only and do not necessarily reflect
+those of the European Union or the European Research Council. Neither
+the European Union nor the granting authority can be held responsible
+for them.
 
 ## Summary
 This repository contains two final datasets of medieval churches from Central Europe for a study of church orientations, astronomical sunrise dates, and associated saints. The original church records were pulled from the THANADOS database.

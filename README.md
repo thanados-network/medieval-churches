@@ -18,10 +18,12 @@
 *[Richards, Nina](https://orcid.org/0000-0002-4911-8451) [![orcID](/assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0002-4911-8451);*
 *[Vargha, Mária](https://orcid.org/0000-0002-6806-7434) [![orcID](/assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0002-6806-7434);*
 
+## Funding
 <!--->
 This project was funded by...
 <!--->
 
+## Summary
 This repository contains two final datasets of medieval churches from Central Europe for a study of church orientations, astronomical sunrise dates, and associated saints. The original church records were pulled from the THANADOS database.
 
 ## Files

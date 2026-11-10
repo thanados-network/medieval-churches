@@ -1,4 +1,4 @@
-# medieval-churches
+# Medieval Churches from Central Europe
 ## Metadata Dataset of Medieval Churches from Central Europe
 
 <!--->
@@ -11,23 +11,21 @@
 **Authors:**   
 *[Hassenbach, Jona Marie](https://orcid.org/0009-0003-9200-2512) [![orcID](/assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0009-0003-9200-2512);*
 *[Lantzberg, Melissa Sheena](https://orcid.org/0009-0002-3609-7695) [![orcID](/assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0009-0002-3609-7695);*
-*[Eichert, Stefan](https://orcid.org/0000-0002-5827-0797) [![orcID](/assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0002-5827-0797);*
 *[Koschiček-Krombholz, Bernhard](https://orcid.org/0000-0001-7608-7446) [![orcID](/assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0001-7608-7446);*
 *[Adrian, Lisa](https://orcid.org/0000-0001-5176-8421) [![orcID](/assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0001-5176-8421);*
 *[Grünbacher, Elias](https://orcid.org/0009-0008-5264-3944) [![orcID](/assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0009-0008-5264-3944);*
 *[Richards, Nina](https://orcid.org/0000-0002-4911-8451) [![orcID](/assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0002-4911-8451);*
 *[Vargha, Mária](https://orcid.org/0000-0002-6806-7434) [![orcID](/assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0002-6806-7434);*
+*[Eichert, Stefan](https://orcid.org/0000-0002-5827-0797) [![orcID](/assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0002-5827-0797);*
 
 ## Funding
-This research was funded in whole or in part by the Austrian Science
-Fund (FWF) [10.55776/I6428](https://doi.org/10.55776/I6428). 
+This research was funded in whole or in part by the Austrian Science Fund (FWF)
+[10.55776/I6428](https://doi.org/10.55776/I6428).
 
-The research has also been funded in part by the
-European Union (ERC-StG, RELIC, 101115501). Views and opinions expressed
-are, however, those of the author(s) only and do not necessarily reflect
-those of the European Union or the European Research Council. Neither
-the European Union nor the granting authority can be held responsible
-for them.
+The research has also been funded in part by the European Union (ERC-StG, RELIC, 101115501).
+Views and opinions expressed are, however, those of the author(s) only and do not
+necessarily reflect those of the European Union or the European Research Council.
+Neither the European Union nor the granting authority can be held responsible for them.
 
 ## Summary
 This repository contains two final datasets of medieval churches from Central Europe for a study of church orientations, astronomical sunrise dates, and associated saints. The original church records were pulled from the THANADOS database.
@@ -72,7 +70,10 @@ Geometry values are Well-Known Text (WKT) in EPSG:32633. Date lists are JSON arr
 
 ### `final_saints.csv`
 
-Each row records a saint feast entry. 
+
+TODO: add Grotefend Citation(s) as source
+# (Each row records a saint feast entry. 
+
 
 | Column | Description |
 |---|---|

@@ -75,5 +75,5 @@ Each row records a saint feast entry.
 | `Date` | Feast date associated with the entry. |
 | `Place` | Place associated with the entry. `everywhere` means it is not location-specific. |
 
-### License
+## License
 This dataset is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://github.com/thanados-network/medieval-churches/blob/develop/LICENSE) license.

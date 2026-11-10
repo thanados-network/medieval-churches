@@ -4,8 +4,8 @@
 <!--->
 [![version](https://img.shields.io/badge/version-1.0-orange)](#)
 [![license](https://img.shields.io/badge/license-CC--BY--4.0-brightgreen)](https://creativecommons.org/licenses/by/4.0/)
-[![date](https://img.shields.io/badge/date-2026--09--09-green)](#)
-[![doi](https://img.shields.io/badge/DOI-10.5281/zenodo.22672084-blue)](https://doi.org/10.5281/zenodo.22672084)
+[![date](https://img.shields.io/badge/date-2026--11--10-green)](#)
+[![doi](https://img.shields.io/badge/DOI-xx.yyyy/zenodo.zzzzzz-blue)](https://doi.org/xx.yyyy/zenodo.zzzzzz)
 <!--->
 
 **Authors:**   
@@ -28,10 +28,12 @@ This repository contains two final datasets of medieval churches from Central Eu
 
 | File | Records | Description |
 |---|---:|---|
-| `final_dataset.csv` | 1,341 | Church chronology, geometry, orientation, horizon measurements, sunrise dates, and associated saints. |
-| `final_saints.csv` | 513 | Saints and their feast entries. A saint may appear in multiple rows. |
+| `data/final_dataset.csv` | 1,341 | Church chronology, geometry, orientation, horizon measurements, sunrise dates, and associated saints. |
+| `data/final_saints.csv` | 513 | Saints and their feast entries. A saint may appear in multiple rows. |
 
 ## Data dictionary
+
+Both files are UTF-8 CSVs with a header row. Use a CSV reader to preserve quoted fields and values containing commas.
 
 ### `final_dataset.csv`
 
@@ -73,4 +75,5 @@ Each row records a saint feast entry.
 | `Date` | Feast date associated with the entry. |
 | `Place` | Place associated with the entry. `everywhere` means it is not location-specific. |
 
-Both files are UTF-8 CSVs with a header row. Use a CSV reader to preserve quoted fields and values containing commas.
+### License
+This dataset is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://github.com/thanados-network/medieval-churches/blob/develop/LICENSE) license.

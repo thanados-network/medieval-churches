@@ -70,10 +70,7 @@ Geometry values are Well-Known Text (WKT) in EPSG:32633. Date lists are JSON arr
 
 ### `final_saints.csv`
 
-
-TODO: add Grotefend Citation(s) as source
-# (Each row records a saint feast entry. 
-
+Each row records a saint feast entry. 
 
 | Column | Description |
 |---|---|
@@ -83,6 +80,9 @@ TODO: add Grotefend Citation(s) as source
 | `Type` | Type of feast entry, as recorded in the file. |
 | `Date` | Feast date associated with the entry. |
 | `Place` | Place associated with the entry. `everywhere` means it is not location-specific. |
+
+Source:
+Grotefend, Hermann: *Zeitrechnung des deutschen Mittelalters und der Neuzeit*. 2 Bde, Hannover 1891–1898. [Online edition by H. Ruth (2004), Manuscripta Mediaevalia](https://bilder.manuscripta-mediaevalia.de/gaeste/grotefend/grotefend.htm) (last accessed: 17.11.2026).
 
 ## License
 This dataset is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://github.com/thanados-network/medieval-churches/blob/develop/LICENSE) license.

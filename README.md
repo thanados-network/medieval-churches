@@ -81,7 +81,7 @@ Each row records a saint feast entry.
 | `Date` | Feast date associated with the entry. |
 | `Place` | Place associated with the entry. `everywhere` means it is not location-specific. |
 
-Source:
+**Source:**
 Grotefend, Hermann: *Zeitrechnung des deutschen Mittelalters und der Neuzeit*. 2 Bde, Hannover 1891–1898. [Online edition by H. Ruth (2004), Manuscripta Mediaevalia](https://bilder.manuscripta-mediaevalia.de/gaeste/grotefend/grotefend.htm) (last accessed: 17.11.2026).
 
 ## License

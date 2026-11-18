@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: Hassenbach
+    given-names: Jona Marie
+    orcid: "https://orcid.org/0009-0003-9200-2512"
+    affiliation: "Digital Humanities Center, Walter Benjamin Kolleg, University of Bern"
+  - family-names: Lantzberg
+    given-names: Melissa Sheena
+    orcid: "https://orcid.org/0009-0002-3609-7695"
+    affiliation: "University of Vienna"
+  - family-names: Koschiček-Krombholz
+    given-names: Bernhard
+    orcid: "https://orcid.org/0000-0001-7608-7446"
+    affiliation: "Natural History Museum Vienna"
+  - family-names: Adrian
+    given-names: Lisa
+    orcid: "https://orcid.org/0000-0001-5176-8421"
+    affiliation: "Natural History Museum Vienna"
+  - family-names: Grünbacher
+    given-names: Elias
+    orcid: "https://orcid.org/0009-0008-5264-3944"
+    affiliation: "Natural History Museum Vienna"
+  - family-names: Richards
+    given-names: Nina
+    orcid: "https://orcid.org/0000-0002-4911-8451"
+    affiliation: "Natural History Museum Vienna"
+  - family-names: Vargha
+    given-names: Mária
+    orcid: "https://orcid.org/0000-0002-6806-7434"
+    affiliation: "University of Vienna"
+  - family-names: Eichert
+    given-names: Stefan
+    orcid: "https://orcid.org/0000-0002-5827-0797"
+    affiliation: "Natural History Museum Vienna"
+title: "Metadata Dataset of Medieval Churches from Central Europe"
+type: dataset
+version: "1.0"
+keywords:
+  - middle ages
+  - churches
+  - austria
+  - czechia
+  - patron saints
+date-released: 2026-11-18
+license: CC-BY-4.0
+abstract: >-
+  This publication contains two final datasets of medieval churches from
+  Central Europe for a study of church orientations, astronomical sunrise
+  dates, and associated saints. The original church records were pulled
+  from the THANADOS database.

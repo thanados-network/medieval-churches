@@ -1,0 +1,66 @@
+{
+  "title": "Metadata Dataset of Medieval Churches from Central Europe",
+  "creators": [
+    {
+      "name": "Hassenbach, Jona Marie",
+      "orcid": "0009-0003-9200-2512",
+      "affiliation": "Digital Humanities Center, Walter Benjamin Kolleg, University of Bern"
+    },
+    {
+      "name": "Lantzberg, Melissa Sheena",
+      "orcid": "0009-0002-3609-7695",
+      "affiliation": "University of Vienna"
+    },
+    {
+      "name": "Koschiček-Krombholz, Bernhard",
+      "orcid": "0000-0001-7608-7446",
+      "affiliation": "Natural History Museum Vienna"
+    },
+    {
+      "name": "Adrian, Lisa",
+      "orcid": "0000-0001-5176-8421",
+      "affiliation": "Natural History Museum Vienna"
+    },
+    {
+      "name": "Grünbacher, Elias",
+      "orcid": "0009-0008-5264-3944",
+      "affiliation": "Natural History Museum Vienna"
+    },
+    {
+      "name": "Richards, Nina",
+      "orcid": "0000-0002-4911-8451",
+      "affiliation": "Natural History Museum Vienna"
+    },
+    {
+      "name": "Vargha, Mária",
+      "orcid": "0000-0002-6806-7434",
+      "affiliation": "University of Vienna"
+    },
+    {
+      "name": "Eichert, Stefan",
+      "orcid": "0000-0002-5827-0797",
+      "affiliation": "Natural History Museum Vienna"
+    }
+  ],
+  "description": "This publication contains two final datasets of medieval churches from Central Europe for a study of church orientations, astronomical sunrise dates, and associated saints. The original church records were pulled from the THANADOS database.",
+  "keywords": [
+    "middle ages",
+    "churches",
+    "austria",
+    "czechia",
+    "patron saints"
+  ],
+  "upload_type": "dataset",
+  "version": "1.0",
+  "publication_date": "2026-11-1",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "language": "eng",
+  "contributors": [
+    {
+      "name": "Natural History Museum Vienna",
+      "type": "HostingInstitution"
+    }
+  ],
+  "notes": "This research was funded in whole or in part by the Austrian Science Fund (FWF) 10.55776/I6428. The research has also been funded in part by the European Union (ERC-StG, RELIC, 101115501). Views and opinions expressed are, however, those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council. Neither the European Union nor the granting authority can be held responsible for them."
+}

@@ -4,7 +4,7 @@
 [![version](https://img.shields.io/badge/version-1.0-orange)](#)
 [![license](https://img.shields.io/badge/license-CC--BY--4.0-brightgreen)](https://creativecommons.org/licenses/by/4.0/)
 [![date](https://img.shields.io/badge/date-2026--11--19-green)](#)
-[![doi](https://img.shields.io/badge/DOI-10.5281/zenodo.24362967-blue)](https://doi.org/10.5281/zenodo.24345521)
+[![doi](https://img.shields.io/badge/DOI-10.5281/zenodo.24362967-blue)](https://doi.org/10.5281/zenodo.24362967)
 
 **Authors:**   
 *[Hassenbach, Jona Marie](https://orcid.org/0009-0003-9200-2512) [![orcID](/assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0009-0003-9200-2512);*
